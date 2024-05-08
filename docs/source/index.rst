@@ -1,7 +1,7 @@
 Welcome to ABC's documentation!
 ===================================
 
-`ABC<https://github.com/berkeley-abc/abc>` is a is a system for sequential logic synthesis and formal verification..
+`ABC <https://github.com/berkeley-abc/abc>`_ is a is a system for sequential logic synthesis and formal verification..
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
